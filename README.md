@@ -1,6 +1,7 @@
 # 🧵 KaarigarConnect — AI-Powered Marketplace for Indian Artisans
 
 "Your craft is unique. Your marketplace should be too."
+🌐 **Live Demo:** [https://kaarigarconnect.vercel.app](https://kaarigarconnect.vercel.app)
 
 ## 📋 Table of Contents
 
