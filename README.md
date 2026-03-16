@@ -352,16 +352,6 @@ git push origin main
 
 **Step 4:** Click Deploy → Get live URL in 2 minutes ✅
 
-## 👥 Team Members
-
-| Name |
-| --- |
-| Rudra Pratap Singh |
-| [Team Member 2] |
-| [Team Member 3] |
-| [Team Member 4] |
-
-*Built for National Level Hackathon — 24-Hour Challenge*
 
 ## 🗺️ Roadmap
 
